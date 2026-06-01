@@ -1,6 +1,12 @@
 # OCR and Summarization Automation Pipeline
 
 ## Project Overview
+This repository contains an OCR and summarization project. 
+
+Due to current technical limitations in GitHub's notebook viewer, you can view the formatted project code and explanation here:
+
+[**View Project Details and Code**](project_details.md)
+
 This project is an offline-first automation tool designed to process scanned document images, perform Optical Character Recognition (OCR), generate concise summaries, and create multiple-choice questions (MCQs) for study purposes.
 
 ## Key Features
